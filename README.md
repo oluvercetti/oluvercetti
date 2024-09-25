@@ -24,4 +24,3 @@ I am a Senior Frontend Engineer and Engineering Lead with over 7 years of experi
 ---
 [![](https://visitcount.itsvg.in/api?id=oluvercetti&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
